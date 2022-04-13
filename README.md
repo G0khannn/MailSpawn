@@ -23,5 +23,5 @@
 ## How to run?
 + `cd MailSpawn/`
 
-+ `python3 -s sender@gmail.com -p senderpasswd -t target@gmail.com -m iLoveYou`
++ `python3 mailspawn.py -s sender@gmail.com -p senderpasswd -t target@gmail.com -m iLoveYou`
 
